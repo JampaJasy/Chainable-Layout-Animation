@@ -7,4 +7,4 @@ Hiervoor heb ik een Chainable Layout Animation gemaakt. Met smooth animatie word
 
 Voor een live demo klik hier: http://i317713.hera.fhict.nl/grotelijn/dist/index.html
 
-In deze GIT is de code te vinden van deze layout. Echter zijn de geleverde PDF bestanden eruit gehaald mocht er interesse zijn om dit voor eigen gebruik over te nemen. 
+In deze GIT is de code te vinden van deze layout. Echter zijn de PDF bestanden die te zien zijn in de demo eruit gehaald mocht er interesse zijn om dit voor eigen gebruik over te nemen. 
